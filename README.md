@@ -17,4 +17,4 @@
 </div>
 
 <h2>Quotes</h2>
-<p>"There are things which seem incredible to most men who have not studied Mathematics." <strong>- Arquimedes</strong></p>
+<p>"There are things which seem incredible to most men who have not studied Mathematics." <strong>- Arquimedes</strong>  <img width=15 src="https://icons.veryicon.com/png/o/education-technology/education-2/basic-math.png"></p>
