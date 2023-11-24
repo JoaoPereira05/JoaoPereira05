@@ -3,7 +3,7 @@
 <p>💰 Accounting student</p>
 <p>👨‍🔬 Currently learning Data Science</p>
 <p>✅ Fuent in Portuguese and English</p>
-<p>✅ Learning French🔵⚪🔴 and Italian🟢⚪🔴</p>
+<p>✅ Learning French and Italian</p>
 
 <div>
 <h2>Most used languages and technologies:</h2>
