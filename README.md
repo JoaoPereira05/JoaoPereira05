@@ -1,12 +1,12 @@
-<h1>Hello, i am Joao Pereira</h1>
+<h1>Hello 👋 </h1>
 <p>🇧🇷 Brazilian</p>
 <p>💰 Accounting student</p>
 <p>👨‍🔬 Currently learning Data Science</p>
 <p>✅ Fuent in Portuguese and English</p>
 <p>✅ Learning French and Italian</p>
 
-<div>
 <h2>Most used languages and technologies:</h2>
+<div align=center>
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg">
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg">
