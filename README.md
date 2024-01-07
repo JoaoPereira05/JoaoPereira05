@@ -4,7 +4,6 @@
 <p>👨‍🔬 Currently learning Data Science</p>
 <p>💻 Recently started learning Web Development</p>
 <p>✅ Fuent in Portuguese and English</p>
-<p>✅ Learning French and Italian</p>
 
 <h2>📈 Data Analysis's Technologies:</h2>
 <div align=center>
