@@ -5,7 +5,7 @@
 <p>💻 Recently started learning Web Development</p>
 <p>✅ Fuent in Portuguese and English</p>
 
-<h2>📈 Data Analysis's Technologies:</h2>
+<h2>📈 Data Science's Technologies:</h2>
 <div align=center>
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg">
