@@ -8,6 +8,7 @@
 <h2>📈 Data Science's Technologies:</h2>
 <div align=center>
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
+<img width=60 src=https://github.com/JoaoPereira05/JoaoPereira05/assets/128620267/def6be8b-7260-42fd-b747-a9680ef76075>
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg">
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg">
 <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg">
